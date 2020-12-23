@@ -8,3 +8,5 @@ Instruction to run the app:
 - run 'python US_Airline_app.py 
 
 The jupyter notebook report contains meta data info, and many other useful info about this app. 
+
+- In order to run the app locally, make sure to download the airline cancellation data at: https://www.kaggle.com/usdot/flight-delays
