@@ -4,8 +4,9 @@ In this project, I created an user-interactive web app, that you can select a sp
 
 Instruction to run the app:
 
-- cd the directory of your app
-- run 'python US_Airline_app.py 
+- Download the airline cancellation data at: https://www.kaggle.com/usdot/flight-delays
+- In terminal, cd the directory of your app
+- Run 'python US_Airline_app.py 
 
 The jupyter notebook report contains meta data info, and many other useful info about this app. 
 
